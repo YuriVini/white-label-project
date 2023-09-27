@@ -1,0 +1,7 @@
+{
+  "images": [
+    { "filename": "author.png", "folder": "../../assets" },
+    { "filename": "logo.png", "folder": "../../assets" },
+    { "filename": "logoAula.png", "folder": "../../assets" }
+  ]
+}
