@@ -1,0 +1,4 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "include": ["../whitelabel/src", "../whitelabel/custom.d.ts"]
+}
